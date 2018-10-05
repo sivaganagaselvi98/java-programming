@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        char c = '*';
+        char c = 'a';
 
         if(c >= 'a' && c <= 'z') 
             System.out.println(c + " is an alphabet.");
