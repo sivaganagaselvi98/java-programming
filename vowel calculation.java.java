@@ -1,6 +1,6 @@
 class vowel {
   public static void main(String[] args) {
-   char ch='a';
+   char ch='f';
    switch(ch) {
    case 'a';
    case 'e';
